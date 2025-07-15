@@ -1,0 +1,351 @@
+,doy,lake,year,depth_type,value
+1,149,Reference,Ambient (2018),Thermocline,1
+2,149,Reference,Ambient (2018),1% Light,5.964562943
+3,149,Reference,Ambient (2018),Anoxia,5.5
+4,156,Reference,Ambient (2018),Thermocline,1.5
+5,156,Reference,Ambient (2018),1% Light,6.267929173
+6,156,Reference,Ambient (2018),Anoxia,6
+7,163,Reference,Ambient (2018),Thermocline,2
+8,163,Reference,Ambient (2018),1% Light,6.610361784
+9,163,Reference,Ambient (2018),Anoxia,6.5
+10,170,Reference,Ambient (2018),Thermocline,1.5
+11,170,Reference,Ambient (2018),1% Light,6.2765
+12,170,Reference,Ambient (2018),Anoxia,6.5
+13,177,Reference,Ambient (2018),Thermocline,2
+14,177,Reference,Ambient (2018),1% Light,6.498677435
+15,177,Reference,Ambient (2018),Anoxia,7
+16,184,Reference,Ambient (2018),Thermocline,2
+17,184,Reference,Ambient (2018),1% Light,5.944280169
+18,184,Reference,Ambient (2018),Anoxia,6.5
+19,191,Reference,Ambient (2018),Thermocline,2
+20,191,Reference,Ambient (2018),1% Light,5.95718292
+21,191,Reference,Ambient (2018),Anoxia,6.5
+22,198,Reference,Ambient (2018),Thermocline,2
+23,198,Reference,Ambient (2018),1% Light,5.966865134
+24,198,Reference,Ambient (2018),Anoxia,6.5
+25,205,Reference,Ambient (2018),Thermocline,2.5
+26,205,Reference,Ambient (2018),1% Light,5.943314396
+27,205,Reference,Ambient (2018),Anoxia,6.5
+28,212,Reference,Ambient (2018),Thermocline,2.5
+29,212,Reference,Ambient (2018),1% Light,6.170993126
+30,212,Reference,Ambient (2018),Anoxia,6.5
+31,219,Reference,Ambient (2018),Thermocline,2.5
+32,219,Reference,Ambient (2018),1% Light,5.879634255
+33,219,Reference,Ambient (2018),Anoxia,6
+34,226,Reference,Ambient (2018),Thermocline,3
+35,226,Reference,Ambient (2018),1% Light,6.221303588
+36,226,Reference,Ambient (2018),Anoxia,6
+37,233,Reference,Ambient (2018),Thermocline,2.5
+38,233,Reference,Ambient (2018),1% Light,6.665784792
+39,233,Reference,Ambient (2018),Anoxia,6
+40,148,Manipulated,Ambient (2018),Thermocline,1
+41,148,Manipulated,Ambient (2018),1% Light,4.941303058
+42,148,Manipulated,Ambient (2018),Anoxia,5
+43,155,Manipulated,Ambient (2018),Thermocline,1.5
+44,155,Manipulated,Ambient (2018),1% Light,4.909878689
+45,155,Manipulated,Ambient (2018),Anoxia,5.5
+46,162,Manipulated,Ambient (2018),Thermocline,1.5
+47,162,Manipulated,Ambient (2018),1% Light,5.192240371
+48,162,Manipulated,Ambient (2018),Anoxia,5.5
+49,169,Manipulated,Ambient (2018),Thermocline,2
+50,169,Manipulated,Ambient (2018),1% Light,4.957637247
+51,169,Manipulated,Ambient (2018),Anoxia,5.5
+52,176,Manipulated,Ambient (2018),Thermocline,1.5
+53,176,Manipulated,Ambient (2018),1% Light,5.140251854
+54,176,Manipulated,Ambient (2018),Anoxia,5.5
+55,183,Manipulated,Ambient (2018),Thermocline,1.5
+56,183,Manipulated,Ambient (2018),1% Light,4.8423
+57,183,Manipulated,Ambient (2018),Anoxia,5.5
+58,190,Manipulated,Ambient (2018),Thermocline,1.5
+59,190,Manipulated,Ambient (2018),1% Light,5.505056311
+60,190,Manipulated,Ambient (2018),Anoxia,5.5
+61,197,Manipulated,Ambient (2018),Thermocline,2
+62,197,Manipulated,Ambient (2018),1% Light,5.07258361
+63,197,Manipulated,Ambient (2018),Anoxia,5.5
+64,204,Manipulated,Ambient (2018),Thermocline,2
+65,204,Manipulated,Ambient (2018),1% Light,5.232546826
+66,204,Manipulated,Ambient (2018),Anoxia,5.5
+67,211,Manipulated,Ambient (2018),Thermocline,2
+68,211,Manipulated,Ambient (2018),1% Light,5.064383344
+69,211,Manipulated,Ambient (2018),Anoxia,5.5
+70,218,Manipulated,Ambient (2018),Thermocline,2.5
+71,218,Manipulated,Ambient (2018),1% Light,5.2179
+72,218,Manipulated,Ambient (2018),Anoxia,6
+73,225,Manipulated,Ambient (2018),Thermocline,1.5
+74,225,Manipulated,Ambient (2018),1% Light,5.314484214
+75,225,Manipulated,Ambient (2018),Anoxia,6
+76,232,Manipulated,Ambient (2018),Thermocline,2
+77,232,Manipulated,Ambient (2018),1% Light,5.772866594
+78,232,Manipulated,Ambient (2018),Anoxia,6
+79,135,Reference,Nutrients (2019),Thermocline,6
+80,135,Reference,Nutrients (2019),1% Light,6.080186879
+81,135,Reference,Nutrients (2019),Anoxia,6
+82,141,Reference,Nutrients (2019),Thermocline,2.5
+83,141,Reference,Nutrients (2019),1% Light,6.373224467
+84,141,Reference,Nutrients (2019),Anoxia,6
+85,148,Reference,Nutrients (2019),Thermocline,1.5
+86,148,Reference,Nutrients (2019),1% Light,6.679005832
+87,148,Reference,Nutrients (2019),Anoxia,6
+88,155,Reference,Nutrients (2019),Thermocline,1.5
+89,155,Reference,Nutrients (2019),1% Light,6.462418155
+90,155,Reference,Nutrients (2019),Anoxia,6.5
+91,162,Reference,Nutrients (2019),Thermocline,1.5
+92,162,Reference,Nutrients (2019),1% Light,6.650220809
+93,162,Reference,Nutrients (2019),Anoxia,6.5
+94,169,Reference,Nutrients (2019),Thermocline,2
+95,169,Reference,Nutrients (2019),1% Light,6.542940569
+96,169,Reference,Nutrients (2019),Anoxia,6.5
+97,176,Reference,Nutrients (2019),Thermocline,2
+98,176,Reference,Nutrients (2019),1% Light,6.566054377
+99,176,Reference,Nutrients (2019),Anoxia,6.5
+100,183,Reference,Nutrients (2019),Thermocline,1.5
+101,183,Reference,Nutrients (2019),1% Light,6.477822901
+102,183,Reference,Nutrients (2019),Anoxia,6.5
+103,190,Reference,Nutrients (2019),Thermocline,1.5
+104,190,Reference,Nutrients (2019),1% Light,5.800712208
+105,190,Reference,Nutrients (2019),Anoxia,6.5
+106,197,Reference,Nutrients (2019),Thermocline,1.5
+107,197,Reference,Nutrients (2019),1% Light,5.382735845
+108,197,Reference,Nutrients (2019),Anoxia,6.5
+109,204,Reference,Nutrients (2019),Thermocline,2
+110,204,Reference,Nutrients (2019),1% Light,5.38872142
+111,204,Reference,Nutrients (2019),Anoxia,6.5
+112,211,Reference,Nutrients (2019),Thermocline,2.5
+113,211,Reference,Nutrients (2019),1% Light,5.59661146
+114,211,Reference,Nutrients (2019),Anoxia,6.5
+115,218,Reference,Nutrients (2019),Thermocline,2
+116,218,Reference,Nutrients (2019),1% Light,5.401193009
+117,218,Reference,Nutrients (2019),Anoxia,6
+118,225,Reference,Nutrients (2019),Thermocline,2.5
+119,225,Reference,Nutrients (2019),1% Light,6.566537942
+120,225,Reference,Nutrients (2019),Anoxia,6
+121,232,Reference,Nutrients (2019),Thermocline,3
+122,232,Reference,Nutrients (2019),1% Light,6.057836664
+123,232,Reference,Nutrients (2019),Anoxia,6
+124,239,Reference,Nutrients (2019),Thermocline,3
+125,239,Reference,Nutrients (2019),1% Light,5.831160422
+126,239,Reference,Nutrients (2019),Anoxia,5.5
+127,246,Reference,Nutrients (2019),Thermocline,3.5
+128,246,Reference,Nutrients (2019),1% Light,6.663630353
+129,246,Reference,Nutrients (2019),Anoxia,5.5
+130,134,Manipulated,Nutrients (2019),Thermocline,3.5
+131,134,Manipulated,Nutrients (2019),1% Light,4.459345635
+132,134,Manipulated,Nutrients (2019),Anoxia,4.5
+133,140,Manipulated,Nutrients (2019),Thermocline,2
+134,140,Manipulated,Nutrients (2019),1% Light,4.397373839
+135,140,Manipulated,Nutrients (2019),Anoxia,5
+136,147,Manipulated,Nutrients (2019),Thermocline,1.5
+137,147,Manipulated,Nutrients (2019),1% Light,4.83462602
+138,147,Manipulated,Nutrients (2019),Anoxia,5.5
+139,154,Manipulated,Nutrients (2019),Thermocline,1
+140,154,Manipulated,Nutrients (2019),1% Light,4.807017442
+141,154,Manipulated,Nutrients (2019),Anoxia,5
+142,161,Manipulated,Nutrients (2019),Thermocline,1
+143,161,Manipulated,Nutrients (2019),1% Light,4.639580646
+144,161,Manipulated,Nutrients (2019),Anoxia,5
+145,168,Manipulated,Nutrients (2019),Thermocline,1.5
+146,168,Manipulated,Nutrients (2019),1% Light,4.7903
+147,168,Manipulated,Nutrients (2019),Anoxia,5
+148,175,Manipulated,Nutrients (2019),Thermocline,1.5
+149,175,Manipulated,Nutrients (2019),1% Light,4.874932688
+150,175,Manipulated,Nutrients (2019),Anoxia,5
+151,182,Manipulated,Nutrients (2019),Thermocline,1
+152,182,Manipulated,Nutrients (2019),1% Light,5.058328624
+153,182,Manipulated,Nutrients (2019),Anoxia,5
+154,189,Manipulated,Nutrients (2019),Thermocline,1.5
+155,189,Manipulated,Nutrients (2019),1% Light,4.685642526
+156,189,Manipulated,Nutrients (2019),Anoxia,5.5
+157,196,Manipulated,Nutrients (2019),Thermocline,2
+158,196,Manipulated,Nutrients (2019),1% Light,4.815591877
+159,196,Manipulated,Nutrients (2019),Anoxia,5.5
+160,203,Manipulated,Nutrients (2019),Thermocline,2
+161,203,Manipulated,Nutrients (2019),1% Light,4.3421
+162,203,Manipulated,Nutrients (2019),Anoxia,5.5
+163,210,Manipulated,Nutrients (2019),Thermocline,1.5
+164,210,Manipulated,Nutrients (2019),1% Light,3.85109642
+165,210,Manipulated,Nutrients (2019),Anoxia,5
+166,217,Manipulated,Nutrients (2019),Thermocline,2
+167,217,Manipulated,Nutrients (2019),1% Light,3.754884546
+168,217,Manipulated,Nutrients (2019),Anoxia,5.5
+169,224,Manipulated,Nutrients (2019),Thermocline,1.5
+170,224,Manipulated,Nutrients (2019),1% Light,4.183396149
+171,224,Manipulated,Nutrients (2019),Anoxia,5
+172,231,Manipulated,Nutrients (2019),Thermocline,2.5
+173,231,Manipulated,Nutrients (2019),1% Light,4.821335763
+174,231,Manipulated,Nutrients (2019),Anoxia,5.5
+175,238,Manipulated,Nutrients (2019),Thermocline,2.5
+176,238,Manipulated,Nutrients (2019),1% Light,5.301714129
+177,238,Manipulated,Nutrients (2019),Anoxia,5.5
+178,245,Manipulated,Nutrients (2019),Thermocline,3
+179,245,Manipulated,Nutrients (2019),1% Light,5.333483607
+180,245,Manipulated,Nutrients (2019),Anoxia,5.5
+181,142,Reference,Dye + Nutrients (2024),Thermocline,2
+182,142,Reference,Dye + Nutrients (2024),1% Light,7.396946519
+183,142,Reference,Dye + Nutrients (2024),Anoxia,7
+184,149,Reference,Dye + Nutrients (2024),Thermocline,2
+186,149,Reference,Dye + Nutrients (2024),Anoxia,7
+187,156,Reference,Dye + Nutrients (2024),Thermocline,2
+185,149,Reference,Dye + Nutrients (2024),1% Light,6.708138153
+189,156,Reference,Dye + Nutrients (2024),Anoxia,7.5
+190,163,Reference,Dye + Nutrients (2024),Thermocline,2.5
+,148,Manipulated,Ambient (2018),BGA,245.4878175
+309,163,Reference,Dye + Nutrients (2024),Anoxia,7
+193,170,Reference,Dye + Nutrients (2024),Thermocline,2
+188,156,Reference,Dye + Nutrients (2024),1% Light,7.086402611
+196,177,Reference,Dye + Nutrients (2024),Thermocline,2.5
+,155,Manipulated,Ambient (2018),BGA,200.1737615
+195,170,Reference,Dye + Nutrients (2024),Anoxia,7
+199,184,Reference,Dye + Nutrients (2024),Thermocline,2.5
+191,163,Reference,Dye + Nutrients (2024),1% Light,7.860281317
+312,177,Reference,Dye + Nutrients (2024),Anoxia,7
+202,191,Reference,Dye + Nutrients (2024),Thermocline,3
+,162,Manipulated,Ambient (2018),BGA,160.8617989
+205,198,Reference,Dye + Nutrients (2024),Thermocline,2.5
+194,170,Reference,Dye + Nutrients (2024),1% Light,6.95623995
+208,205,Reference,Dye + Nutrients (2024),Thermocline,2.5
+315,184,Reference,Dye + Nutrients (2024),Anoxia,7
+211,212,Reference,Dye + Nutrients (2024),Thermocline,3
+,169,Manipulated,Ambient (2018),BGA,206.454105
+318,191,Reference,Dye + Nutrients (2024),Anoxia,7
+214,219,Reference,Dye + Nutrients (2024),Thermocline,3
+197,177,Reference,Dye + Nutrients (2024),1% Light,6.714180553
+217,228,Reference,Dye + Nutrients (2024),Thermocline,3.5
+,176,Manipulated,Ambient (2018),BGA,142.6234796
+321,198,Reference,Dye + Nutrients (2024),Anoxia,7
+220,233,Reference,Dye + Nutrients (2024),Thermocline,3.5
+200,184,Reference,Dye + Nutrients (2024),1% Light,6.879971457
+227,141,Manipulated,Dye + Nutrients (2024),1% Light,5.054332867
+230,148,Manipulated,Dye + Nutrients (2024),1% Light,4.488406962
+233,155,Manipulated,Dye + Nutrients (2024),1% Light,4.628342665
+236,162,Manipulated,Dye + Nutrients (2024),1% Light,4.573584069
+226,141,Manipulated,Dye + Nutrients (2024),Thermocline,1
+239,169,Manipulated,Dye + Nutrients (2024),1% Light,3.847683918
+228,141,Manipulated,Dye + Nutrients (2024),Anoxia,7
+242,176,Manipulated,Dye + Nutrients (2024),1% Light,4.227150598
+245,186,Manipulated,Dye + Nutrients (2024),1% Light,3.879039206
+248,190,Manipulated,Dye + Nutrients (2024),1% Light,3.820135388
+231,148,Manipulated,Dye + Nutrients (2024),Anoxia,6.5
+251,197,Manipulated,Dye + Nutrients (2024),1% Light,3.172949691
+234,155,Manipulated,Dye + Nutrients (2024),Anoxia,7
+229,148,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+237,162,Manipulated,Dye + Nutrients (2024),Anoxia,6.5
+300,169,Manipulated,Dye + Nutrients (2024),Anoxia,6.5
+293,204,Manipulated,Dye + Nutrients (2024),1% Light,3.10877251
+243,176,Manipulated,Dye + Nutrients (2024),Anoxia,6.5
+232,155,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+263,225,Manipulated,Dye + Nutrients (2024),1% Light,4.169325261
+246,186,Manipulated,Dye + Nutrients (2024),Anoxia,6.5
+235,162,Manipulated,Dye + Nutrients (2024),Thermocline,2
+257,211,Manipulated,Dye + Nutrients (2024),1% Light,3.955528551
+238,169,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+249,190,Manipulated,Dye + Nutrients (2024),Anoxia,6.5
+241,176,Manipulated,Dye + Nutrients (2024),Thermocline,2
+252,197,Manipulated,Dye + Nutrients (2024),Anoxia,6.5
+244,186,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+294,204,Manipulated,Dye + Nutrients (2024),Anoxia,6
+247,190,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+250,197,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+258,211,Manipulated,Dye + Nutrients (2024),Anoxia,5.5
+253,204,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+256,211,Manipulated,Dye + Nutrients (2024),Thermocline,1
+259,218,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+260,218,Manipulated,Dye + Nutrients (2024),1% Light,3.072715582
+262,225,Manipulated,Dye + Nutrients (2024),Thermocline,2
+261,218,Manipulated,Dye + Nutrients (2024),Anoxia,5.5
+266,232,Manipulated,Dye + Nutrients (2024),1% Light,4.229013173
+,183,Manipulated,Ambient (2018),BGA,237.4527885
+324,205,Reference,Dye + Nutrients (2024),Anoxia,7
+306,225,Manipulated,Dye + Nutrients (2024),Anoxia,5.5
+265,232,Manipulated,Dye + Nutrients (2024),Thermocline,1.5
+267,232,Manipulated,Dye + Nutrients (2024),Anoxia,5.5
+327,212,Reference,Dye + Nutrients (2024),Anoxia,7
+330,219,Reference,Dye + Nutrients (2024),Anoxia,7
+219,228,Reference,Dye + Nutrients (2024),Anoxia,6.5
+336,233,Reference,Dye + Nutrients (2024),Anoxia,6.5
+,190,Manipulated,Ambient (2018),BGA,244.0725252
+,197,Manipulated,Ambient (2018),BGA,236.470344
+,204,Manipulated,Ambient (2018),BGA,324.1953631
+,211,Manipulated,Ambient (2018),BGA,302.2200523
+,218,Manipulated,Ambient (2018),BGA,370.3521864
+,225,Manipulated,Ambient (2018),BGA,291.7282155
+,232,Manipulated,Ambient (2018),BGA,311.15625
+,148,Manipulated,Dye + Nutrients (2024),BGA,177.41
+,155,Manipulated,Dye + Nutrients (2024),BGA,121.83
+,162,Manipulated,Dye + Nutrients (2024),BGA,133.66
+,169,Manipulated,Dye + Nutrients (2024),BGA,231.8
+,176,Manipulated,Dye + Nutrients (2024),BGA,287.4
+,186,Manipulated,Dye + Nutrients (2024),BGA,178.12
+,190,Manipulated,Dye + Nutrients (2024),BGA,2345.67
+,197,Manipulated,Dye + Nutrients (2024),BGA,14471.33
+,204,Manipulated,Dye + Nutrients (2024),BGA,24185.33
+,225,Manipulated,Dye + Nutrients (2024),BGA,133.66
+,211,Manipulated,Dye + Nutrients (2024),BGA,18409.33
+,218,Manipulated,Dye + Nutrients (2024),BGA,65461.33
+,232,Manipulated,Dye + Nutrients (2024),BGA,908.77
+,134,Manipulated,Nutrients (2019),BGA,672.2583728
+,140,Manipulated,Nutrients (2019),BGA,760.3010168
+,147,Manipulated,Nutrients (2019),BGA,559.5375954
+,154,Manipulated,Nutrients (2019),BGA,323.9133585
+,161,Manipulated,Nutrients (2019),BGA,283.8230082
+,168,Manipulated,Nutrients (2019),BGA,304.9888273
+203,191,Reference,Dye + Nutrients (2024),1% Light,6.540171201
+,175,Manipulated,Nutrients (2019),BGA,441.8402778
+206,198,Reference,Dye + Nutrients (2024),1% Light,7.245388316
+,182,Manipulated,Nutrients (2019),BGA,458.6006944
+296,205,Reference,Dye + Nutrients (2024),1% Light,7.794510777
+,189,Manipulated,Nutrients (2019),BGA,566.5764902
+212,212,Reference,Dye + Nutrients (2024),1% Light,6.56247447
+,196,Manipulated,Nutrients (2019),BGA,996.5124959
+215,219,Reference,Dye + Nutrients (2024),1% Light,6.836736122
+,203,Manipulated,Nutrients (2019),BGA,1980.78301
+218,228,Reference,Dye + Nutrients (2024),1% Light,6.505585181
+,210,Manipulated,Nutrients (2019),BGA,4750.502276
+221,233,Reference,Dye + Nutrients (2024),1% Light,6.032106836
+,217,Manipulated,Nutrients (2019),BGA,3075.003904
+,224,Manipulated,Nutrients (2019),BGA,1463.215999
+,231,Manipulated,Nutrients (2019),BGA,702.7026533
+,238,Manipulated,Nutrients (2019),BGA,1370.736673
+,245,Manipulated,Nutrients (2019),BGA,1416.975694
+,149,Reference,Ambient (2018),BGA,357.8188919
+,156,Reference,Ambient (2018),BGA,280.8035478
+,163,Reference,Ambient (2018),BGA,193.5217141
+,170,Reference,Ambient (2018),BGA,244.4853043
+,177,Reference,Ambient (2018),BGA,251.3194444
+,184,Reference,Ambient (2018),BGA,295.4576719
+,191,Reference,Ambient (2018),BGA,178.077641
+,198,Reference,Ambient (2018),BGA,162.1950072
+,205,Reference,Ambient (2018),BGA,155.4463808
+,212,Reference,Ambient (2018),BGA,181.4465893
+,219,Reference,Ambient (2018),BGA,198.8578805
+,226,Reference,Ambient (2018),BGA,151.0554484
+,233,Reference,Ambient (2018),BGA,177.2430556
+,149,Reference,Dye + Nutrients (2024),BGA,148.55
+,156,Reference,Dye + Nutrients (2024),BGA,154.23
+,163,Reference,Dye + Nutrients (2024),BGA,279.61
+,170,Reference,Dye + Nutrients (2024),BGA,286.21
+,177,Reference,Dye + Nutrients (2024),BGA,216.47
+,184,Reference,Dye + Nutrients (2024),BGA,178.12
+,191,Reference,Dye + Nutrients (2024),BGA,191.87
+,198,Reference,Dye + Nutrients (2024),BGA,483.48
+,205,Reference,Dye + Nutrients (2024),BGA,347.95
+,212,Reference,Dye + Nutrients (2024),BGA,244.58
+,219,Reference,Dye + Nutrients (2024),BGA,210.52
+,228,Reference,Dye + Nutrients (2024),BGA,299.5
+,233,Reference,Dye + Nutrients (2024),BGA,221.88
+,135,Reference,Nutrients (2019),BGA,370.1905967
+,141,Reference,Nutrients (2019),BGA,409.6616773
+,148,Reference,Nutrients (2019),BGA,287.0643161
+,155,Reference,Nutrients (2019),BGA,166.3147146
+,162,Reference,Nutrients (2019),BGA,157.0305371
+,169,Reference,Nutrients (2019),BGA,169.8245815
+,176,Reference,Nutrients (2019),BGA,212.7049194
+,183,Reference,Nutrients (2019),BGA,191.1729922
+,190,Reference,Nutrients (2019),BGA,182.7976402
+,197,Reference,Nutrients (2019),BGA,211.1607336
+,204,Reference,Nutrients (2019),BGA,278.44627
+,211,Reference,Nutrients (2019),BGA,317.146699
+,218,Reference,Nutrients (2019),BGA,317.6945222
+,225,Reference,Nutrients (2019),BGA,349.3541667
+,232,Reference,Nutrients (2019),BGA,346.4791667
+,239,Reference,Nutrients (2019),BGA,265.3659644
+,246,Reference,Nutrients (2019),BGA,288.2951389
